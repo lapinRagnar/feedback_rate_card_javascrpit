@@ -1,0 +1,1 @@
+# feedback_rate_card_javascrpit
